@@ -1,0 +1,2 @@
+# magramo
+personal website
